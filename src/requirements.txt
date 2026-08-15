@@ -1,0 +1,6 @@
+numpy==1.24.0
+scipy
+sentence-transformers
+torch==2.2.0
+torch-scatter==2.1.2
+tqdm
